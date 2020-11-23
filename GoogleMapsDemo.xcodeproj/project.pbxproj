@@ -14,7 +14,6 @@
 		C90A874125626E78008098A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C90A873F25626E78008098A7 /* Main.storyboard */; };
 		C90A874325626E7B008098A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C90A874225626E7B008098A7 /* Assets.xcassets */; };
 		C90A874625626E7B008098A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C90A874425626E7B008098A7 /* LaunchScreen.storyboard */; };
-		C93D1251256C502F00ACA58C /* GoogleMapsHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C93D1250256C502F00ACA58C /* GoogleMapsHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +28,6 @@
 		C90A874225626E7B008098A7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C90A874525626E7B008098A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C90A874725626E7B008098A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C93D1250256C502F00ACA58C /* GoogleMapsHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoogleMapsHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,7 +83,6 @@
 				C90A873925626E78008098A7 /* AppDelegate.swift */,
 				C90A873B25626E78008098A7 /* SceneDelegate.swift */,
 				C90A873D25626E78008098A7 /* ViewController.swift */,
-				C93D1250256C502F00ACA58C /* GoogleMapsHelper.swift */,
 				C90A873F25626E78008098A7 /* Main.storyboard */,
 				C90A874225626E7B008098A7 /* Assets.xcassets */,
 				C90A874425626E7B008098A7 /* LaunchScreen.storyboard */,
@@ -211,7 +208,6 @@
 				C90A873E25626E78008098A7 /* ViewController.swift in Sources */,
 				C90A873A25626E78008098A7 /* AppDelegate.swift in Sources */,
 				C90A873C25626E78008098A7 /* SceneDelegate.swift in Sources */,
-				C93D1251256C502F00ACA58C /* GoogleMapsHelper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
