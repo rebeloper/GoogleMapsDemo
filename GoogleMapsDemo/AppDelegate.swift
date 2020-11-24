@@ -20,7 +20,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         // Step 1.
         // https://developers.google.com/maps/documentation/ios-sdk/get-api-key#creating-api-keys
-//        GMSServices.provideAPIKey("AIzaSyAMGaUCBAEgER9gsyOloNgEgtAfpi38xoo")
+        #error("Register for API Key and insert here. Then delete this line.")
+//        GMSServices.provideAPIKey("")
         return true
     }
 
